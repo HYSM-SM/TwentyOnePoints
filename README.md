@@ -11,7 +11,7 @@ chmod +x compile.sh
 
 ./compile.sh
 
-Compile in Termux:
+Compile in Termux(clang-15):
 
 git clone https://github.com/HYSM-SM/TwentyOnePoints
 
